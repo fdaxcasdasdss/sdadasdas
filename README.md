@@ -1,1 +1,1 @@
-[comment]: <> (gsdfgdsgdg)
+[//]: <> (This is also a comment.)
