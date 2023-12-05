@@ -1,3 +1,1 @@
-<empty line>
-[//]: # (This may be the most platform independent comment)
-<empty line>
+<a href="Comment%20text%20goes%20here"></a>
